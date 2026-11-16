@@ -145,8 +145,6 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal:
 
 jika npm nya belum terinstall jalan kan ini di terminal
 
-    ```
     npm install
 
-    ```
    
