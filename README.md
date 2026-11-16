@@ -106,8 +106,8 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal:
 1. **Clone repository ini:**
 
     ```
-    git clone https://github.com/jangaris/UTS-Pemrograman-Internet---Tema-Sistem-Analisis-Persediaan-Aris-Riswanto.git
-    cd nama-repository-kamu
+    git clone https://github.com/jangaris/UTS-Pemrograman-Internet-Tema-Sistem-Analisis-Persediaan-Aris-Riswanto.git
+    cd nama-repository nya sesuaikan saja 
 
     ```
 
