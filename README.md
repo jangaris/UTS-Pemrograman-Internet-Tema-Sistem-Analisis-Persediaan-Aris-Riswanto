@@ -129,7 +129,7 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal:
 4. **Jalankan server pengembangan lokal Laravel:**
 
     ```
-    php artisan serv
+    php artisan ser
 
     ```
 
