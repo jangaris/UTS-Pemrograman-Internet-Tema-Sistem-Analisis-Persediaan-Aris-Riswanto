@@ -99,7 +99,7 @@ Urutan prioritas pengadaan ditentukan berdasarkan kondisi stok akhir:
 
 ![Detail Proyek](screenshots/recomendasi.png)
 
-## 🚀 Petunjuk Menjalankan Aplikasi di Lokal
+## Petunjuk Menjalankan Aplikasi di Lokal
 
 Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal:
 
@@ -129,9 +129,24 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal:
 4. **Jalankan server pengembangan lokal Laravel:**
 
     ```
-    php artisan serve
+    php artisan serv
+
+    ```
+
+4. **karena aku pakai tailwind css yang using vite jalan kan juga ini barengan dengan yang no 4 itu:**
+
+    ```
+    npm run dev
 
     ```
 
 5. **Buka aplikasi di browser:**
    Akses alamat `http://127.0.0.1:8000` melalui browser Anda.
+
+jika npm nya belum terinstall jalan kan ini di terminal
+
+    ```
+    npm install
+
+    ```
+   
