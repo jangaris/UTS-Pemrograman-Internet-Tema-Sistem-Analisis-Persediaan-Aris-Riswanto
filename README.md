@@ -22,7 +22,7 @@ Aplikasi web berbasis framework **Laravel** dengan arsitektur **Model-View-Contr
 ## Implementasi Arsitektur MVC & Routing
 
 1. **Model (`app/Models/Barang.php`):**
-   Berperan sebagai penyedia sumber data statis dalam bentuk array PHP yang memuat 19 data item barang dari 4 kategori (_Bahan Pokok_, _Minuman_, _Makanan Ringan_, dan _Perlengkapan Toko_), termasuk beberapa data uji untuk validasi anomali.
+   Berperan sebagai penyedia sumber data statis dalam bentuk array PHP yang memuat 19 data item barang dari 4 kategori (_Bahan Pokok_, _Minuman_, _Makanan Ringan_, dan _Perlengkapan Toko_), termasuk beberapa data uji untuk validasi anomali dan image dari url github.
 
 2. **Controller (`app/Http/Controllers/PersediaanController.php`):**
    Memuat seluruh logika pemrosesan data, validasi kelayakan input, perhitungan stok akhir, penentuan status persediaan, serta penyusunan prioritas rekomendasi pengadaan barang.
